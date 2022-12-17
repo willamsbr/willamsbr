@@ -1,10 +1,11 @@
-### Fala DEV, Willamsbr aqui! 👋
-
-<div aling="center">
+### Fala DEV, Willamsbr aqui!
+<div align="center">
   <a href="https://github.com/willamsbr">
   <img height="180em" src="https://github-readme-stats.vercel/api?username=willamsbr&show_icons=true&theme=prussian&include_all_commits=true&count_primate=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willamsbr&layout=compact&langs_count=7&theme=prussian"/>
 </div>
+
+##
 <!--
 **willamsbr/willamsbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
