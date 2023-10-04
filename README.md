@@ -22,7 +22,5 @@
  	<a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-
-![Snake animation](https://github.com/willamsbr/willamsbr/blob/output/github-contribution-grid-snake-dark.svg)
-
 </div>
+![Snake animation](https://github.com/willamsbr/willamsbr/blob/output/github-contribution-grid-snake-dark.svg)
